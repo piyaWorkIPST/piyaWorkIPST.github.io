@@ -2,8 +2,8 @@
 
 ## developer 
 
-vatii123 (do all things lmao)
-piyaphatliamwilai (Import font + Change Font)
+- vatii123 (do all things lmao)
+- piyaphatliamwilai (Import font + Change Font)
 
 ## Fonts
 
